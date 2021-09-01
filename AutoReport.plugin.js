@@ -12,7 +12,7 @@
 			"name": "AutoReport",
 			"author": "GROSST",
 			"version": "1.0.6",
-			"description": "Ебать, сам лутает репорты"
+			"description": "text"
 		}
 	};
 	var auth;
